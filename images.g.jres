@@ -4,6 +4,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAADMAAAAAAAAAAwAAAAAAAAADAAAAAAAAADAAAAAAAAAAMAMAAAAAAAAAAwAAAAAAAAAzAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAMAAAAAAAAAAwAAAAAAADADAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAd3cHAAAAAHcAAHAHAAAAB3B3BwcAAAAHBwB3AAAAAHcAAHcAAAAAcAB3BwAAAABwd3dwAAAAAHBwAHB3BwAAcHAAAAcHAABwAAdwB3AAAAAHd3AHdwAAAAdwcAcHAAAAcAB3dwcAAAAAdwcHAAAAAAAAAHAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
