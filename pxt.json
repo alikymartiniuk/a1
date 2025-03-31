@@ -3,7 +3,8 @@
     "version": "0.0.1",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "slimes": "github:shakao/arcade-slimes#v0.0.1"
     },
     "files": [
         "main.blocks",
@@ -23,7 +24,7 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "yotta": {
         "config": {
             "PXT_GC_CHECKS": 1
